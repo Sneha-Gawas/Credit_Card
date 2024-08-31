@@ -52,7 +52,7 @@ function Footer() {
                   <h6 className="text-uppercase fw-bold">Linkedin links</h6>
                   <hr className="mb-4 mt-0 d-inline-block mx-auto" style={{ width: '60px', backgroundColor: '#7c4dff', height: '2px' }} />
                   <p><FontAwesomeIcon icon={faLinkedin} />  <a href="#!" className="text-white">Pallavi Bandarkar</a></p>
-                  <p><FontAwesomeIcon icon={faLinkedin} />  <a href="https://www.linkedin.com/in/sneha-gawas/" className="text-white">Sneha Gawas</a></p>
+                  <p><FontAwesomeIcon icon={faLinkedin} />  <a href="#!" className="text-white">Sneha Gawas</a></p>
                   <p><FontAwesomeIcon icon={faLinkedin} />  <a href="#!" className="text-white">Anannya Auchare</a></p>
                   <p><FontAwesomeIcon icon={faLinkedin} />  <a href="#!" className="text-white">Saniya Chandanshive </a></p>
                 </div>
